@@ -6,6 +6,6 @@ nitro = () =>{
     }
     return 'discord.gift/' + code;
 }
-for(let i = 0; i < 1000; i++){
+for(let j = 0; j < 1000; j++){
   nitro();
 }
